@@ -1,6 +1,6 @@
 # ProxySwitcher
 
-VB6 working copy of `ProxySwitcher` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: ProxySwitcher.
+VB6 Proxy Switcher (`ProxySwitcher.vbp`): tray/helper to store named proxy profiles (New… / Advanced) and apply them via Win32 registry helpers (`RegistryGrip.bas`). Open `ProxySwitcher.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
